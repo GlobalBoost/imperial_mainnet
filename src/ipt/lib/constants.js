@@ -44,10 +44,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      1: '0x6a738fb7ce0eef4703d51d8c9f21189acd20193d',
+      1: '0x987b1ed5d0dba28995c96979b27dab43bd87af78',
     },
     tokenAddresses: {
-      1: '0xCD7cb8dDb80DDd92F2217522cA37EE678febe667',
+      1: '0x2F3ed7b9EA1f6870956db8f2554fc02eA5646CD2',
     },
     name: 'Ipt - Farming',
     symbol: 'IPT-ETH ITS',
