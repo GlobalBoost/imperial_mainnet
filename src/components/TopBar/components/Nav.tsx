@@ -17,7 +17,7 @@ const Nav: React.FC = () => {
      
      
       <StyledAbsoluteLink
-        href="localhost:3001"
+        href="exchange.imperial.money"
         target="_blank"
       >
         Exchange
